@@ -1,9 +1,9 @@
 # Dot files 
 
-- wm - yabai
+- wm - [ yabai ](https://github.com/koekeishiya/yabai)
 
-- kbshortcuts - skhd
+- kbshortcuts - [ skhd ](https://github.com/koekeishiya/skhd)
 
-- terminal - kitty
+- terminal - [ kitty ](https://sw.kovidgoyal.net/kitty/)
 
-- text editor - vim 
+- text editor - [ vim ](https://github.com/vim/vim)
